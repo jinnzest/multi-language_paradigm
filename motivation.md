@@ -1,1 +1,0 @@
-The goal of the manifesto is a new paradigm to develop of a programming language, producing predictable performance programs (as Rust or even faster) and much more durable (making a set of errors, which modern programming languages allow to do, impossible).
