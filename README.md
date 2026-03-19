@@ -1,6 +1,6 @@
-# Multi-Language Aspect-Oriented Paradigm
+# Multi-Language Paradigm
 
-Multi-Language Aspect-Oriented Paradigm is a programming paradigm aimed at creating faster and more robust applications through the automation of routine tasks and reducing complexity by dividing a programming language into several interconnected languages.
+Multi-Language is a programming paradigm aimed at creating faster and more robust applications through the automation of routine tasks and reducing complexity by dividing a programming language into several interconnected languages.
 
 All programming languages created until now have attempted to express complex and multi-layered concepts using flat text. Consequently, business logic is always combined with various low-level memory management methods (or even high-level automated ones), control means for execution speed, and other methods for enhancing code durability, etc.
 
